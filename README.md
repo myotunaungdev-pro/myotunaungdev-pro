@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Myo Tun Aung! 👋
 
-<!--
-**myotunaungdev-pro/myotunaungdev-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a passionate Full-Stack Developer currently focused on building modern, responsive, and user-friendly web applications. 
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on a **Premium Note-Taking Application** (MERN Stack).
+- 🌱 I’m constantly learning and leveling up my skills in **React, Node.js, and UX/UI Design**.
+- 📍 Based in: Thailand
+- ⚡ Fun fact: I love turning complex problems into elegant, simple interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 📊 GitHub Stats
+![Myo Tun Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=myotunaungdev-pro&show_icons=true&theme=radium)
