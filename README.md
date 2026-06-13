@@ -17,6 +17,3 @@ Welcome to my GitHub profile. I am a passionate Full-Stack Developer currently f
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-### 📊 GitHub Stats
-![Myo Tun Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=myotunaungdev-pro&show_icons=true&theme=radium)
