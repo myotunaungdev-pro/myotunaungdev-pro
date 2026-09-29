@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Myo Tun Aung! 👋</h1>
 
-<h3 align="center">Passionate Full-Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full-Stack (MERN) & AI-Driven Developer</h3>
 
 <p align="center">
-  I focus on building modern, responsive, and user-friendly web applications, bringing ideas to life through clean code and intuitive design.
+  I build scalable web applications using the MERN stack and integrate practical AI solutions. By leveraging AI tools in my daily workflow, I deliver high-quality, production-ready code with exceptional speed and efficiency.
 </p>
 
 ---
