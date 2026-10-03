@@ -32,7 +32,7 @@
 <br><br>
 
 #### 🔌 APIs & Integrations
-![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge) ![Stripe API](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white) ![KBZPay](https://img.shields.io/badge/KBZPay-%23005A9C.svg?style=for-the-badge)
+![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge) ![Stripe API](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
 <br><br>
 
 #### 🛠️ Version Control
